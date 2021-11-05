@@ -1,16 +1,16 @@
 ### Hi there 👋
+### Welcome to my GitHub!!!
 
-<!--
-**CSI-David-Quiros/CSI-David-Quiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is David Quiros and i am a student.
+### My hobies are:
 
-Here are some ideas to get you started:
+* Soccer
+* Working out
+* eating
+* sleeping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Java coding.
+- 📫 How to reach me: E-mail
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I own a pig
 -->
